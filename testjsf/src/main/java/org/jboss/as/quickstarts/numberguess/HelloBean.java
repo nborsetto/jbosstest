@@ -16,6 +16,7 @@ public class HelloBean implements Serializable {
 	//modifica4
 	
 	//modifica5
+	//modifica6
 	
 	//modifica branch 4
 	private static final long serialVersionUID = 3344199387523339981L;
