@@ -44,6 +44,7 @@ import jakarta.enterprise.inject.Produces;
 @ApplicationScoped
 public class Generator implements Serializable {
 
+	//modifica branch 4
     private java.util.Random random = new java.util.Random(System.currentTimeMillis());
 
     private int maxNumber = 100;
