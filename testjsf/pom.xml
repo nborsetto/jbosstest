@@ -35,8 +35,6 @@
 	<name>Quickstart: numberguess</name>
 	<description>The numberguess project demonstrates the use of CDI and JSF in
 		JBoss EAP</description>
-
-
 	<properties>
 		<!-- The versions for BOMs, Dependencies and Plugins -->
 		<version.server.bom>8.0.0.GA-redhat-00009</version.server.bom>
